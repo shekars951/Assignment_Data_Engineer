@@ -51,4 +51,3 @@ result_pandas.to_csv('output_pandas.csv', index=False)
 
 # Closing the database connection
 conn.close()
-
